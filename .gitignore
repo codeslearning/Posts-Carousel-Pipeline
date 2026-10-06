@@ -1,0 +1,32 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+.env
+
+# Node
+node_modules/
+
+# OS
+.DS_Store
+
+# Generated outputs (re-create with generate scripts)
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.gif
+*.pdf
+*.mp4
+*.log
+
+# Secrets
+.env.local
+
+# Local-only reference assets (kept on disk, not pushed to GitHub)
+references/draftly/*.png
+references/draftly/BRAND_REFERENCE.md
+references/draftly/README.md
+Draftly_Carousels/references/
+fourth June/reference.md
+fourth June/references/
